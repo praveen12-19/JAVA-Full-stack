@@ -6,3 +6,19 @@ public class For {
         }
     }
 }
+
+
+/*
+syntax
+for (int 1=1;i<=5;i++)
+system.out.println("Hello world")
+
+
+int i=1;
+for(;i<=5;i++)
+{
+system.out.println(i);
+}
+System.out.println(i)
+
+ */
