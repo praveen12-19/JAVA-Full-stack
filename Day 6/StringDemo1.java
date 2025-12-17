@@ -16,11 +16,13 @@ public class StringDemo1 {
         String str="My laptop";
         System.out.println(str.substring(0, 6));
 
-        //
+        //charAt
+        String st="My world";
+        System.out.println(st.charAt(7));
 
-
-
-
+        //subsequence()
+        String str1="My coding world";
+        System.out.println(str1.subSequence(0, 4));
     }
     
 }
